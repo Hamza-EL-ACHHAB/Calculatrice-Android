@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Standard"
+        android:title="Standard"
+        android:orderInCategory="100"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/Scientifique"
+        android:title="Scientifique"
+        android:orderInCategory="100"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/Programmeur"
+        android:title="Programmeur"
+        android:orderInCategory="100"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/Historique"
+        android:title="Historique"
+        android:orderInCategory="100"
+        app:showAsAction="never">
+    </item>
+
+</menu>
